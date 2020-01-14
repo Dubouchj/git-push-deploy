@@ -1,6 +1,6 @@
 ## Simple Automated CI/CD Pipeline for Git Projects
 
-This Git-Push-Deploy solution enables automatic delivery of updates within your Git application sources directly to the cloud. The package can be applied as an add-on to **Java**, **PHP**, **Ruby**, **Node.js**, **Python** and **Go** projects, run on top of [the certified stack templates](https://docs.jelastic.com/software-stacks-versions#app-servers).
+This module Git-Push-Deploy solution enables automatic delivery of updates within your Git application sources directly to the cloud. The package can be applied as an add-on to **Java**, **PHP**, **Ruby**, **Node.js**, **Python** and **Go** projects, run on top of [the certified stack templates](https://docs.jelastic.com/software-stacks-versions#app-servers).
 
 
 ![git-push-deploy-pipeline](images/git-push-deploy-pipeline.png)
